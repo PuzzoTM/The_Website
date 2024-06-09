@@ -1,2 +1,2 @@
 # The_Website
-My personal website 
+My personal website written using vite + react, deployed using github pages.
